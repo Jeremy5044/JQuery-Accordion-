@@ -1,3 +1,32 @@
-h3 {
-  border: solid;
-  border-width: 1px; }
+h5 {
+  color: white;
+  font-size: 20px;
+  font-family: 'Heebo', sans-serif; }
+  h5:hover {
+    background: #9FECF2; }
+
+.wrapper {
+  margin: 50px auto;
+  width: 505px; }
+
+h1 {
+  font-size: 50px;
+  margin: 5px auto;
+  margin-left: 108px; }
+
+.click {
+  border: 1px solid #00C6D6;
+  padding: 0px;
+  margin: 0px 0px 0px;
+  background: #00C6D6;
+  line-height: 50px;
+  border-radius: 2px; }
+
+.container {
+  overflow: hidden;
+  border: 1px solid cadetblue;
+  height: 0px;
+  transition: height .8s ease; }
+
+.block {
+  padding: 10px; }
